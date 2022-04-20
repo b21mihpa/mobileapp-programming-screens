@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Screens</string>
-    <string name="button_text">Open</string>
+    <string name="button_text">Send</string>
+    <string name="hint_text">Message</string>
 </resources>
