@@ -16,6 +16,7 @@
         android:hint="@string/hint_text"
         android:importantForAutofill="no"
         android:inputType="text"
+        android:textCursorDrawable="@color/colorPrimary"
         android:textSize="22sp"
         app:layout_constraintBottom_toTopOf="@+id/button"
         app:layout_constraintEnd_toEndOf="@+id/button"
